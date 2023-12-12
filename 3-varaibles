@@ -1,4 +1,4 @@
 #!/bin/bash
 
 DATE=$(date)
-echo "print date nd time"
+echo "print date nd time:${DATE}" 
